@@ -1,2 +1,1 @@
-# python-learning
-A collection of my Python practice projects and Jupyter Notebooks as I learn programming, explore data analysis, and work with different Python libraries. This repository documents my progress, experiments, and learning journey.
+# A Python project exploring how to clean, process, and transform raw data into meaningful insights using Pandas and Jupyter Notebook. This project is part of my journey in learning data analysis.
